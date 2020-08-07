@@ -1,2 +1,2 @@
 # JogandoCodigoFora
-Rabiscos e testes em Java, na sua maioria.
+Rabiscos e testes em Java, na sua maioria!
