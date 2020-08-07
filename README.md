@@ -1,0 +1,2 @@
+# JogandoCodigoFora
+Rabiscos e testes.
